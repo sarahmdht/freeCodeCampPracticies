@@ -1,0 +1,9 @@
+syntaxError => means there is an error in the syntax, somethins is miss written or forgotten
+
+ReferenceError => is thrown when a non-existent variable is referenced
+
+TypeError => means that the code is trying to perform an operation on a value that is not of the expected type
+
+null => a special value in JavaScript that represents the absence of a value
+
+undefined => is showing up here because the variable is not being set correctly.
